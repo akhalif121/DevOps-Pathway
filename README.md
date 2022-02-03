@@ -1,6 +1,6 @@
 # DevOps-Pathway
 
-!!! This not advise but a path I intend to follow!!!
+⚠️This is advise to myself⚠️
 
 As an aspiring Cloud/ DevOps Engineer. I will be following the pathway below. This is based on the most in-demand Technologies. 
 
@@ -41,7 +41,7 @@ Continuous integration & Continuous Development - CI/CD - https://tinyurl.com/ms
 
 I look forward to learning and trialing all the following technologies. I aim to use all these Technologies in my up and coming projects!👨🏽‍💻
 
-P.S - This Repository would not have been possible without the support of the Deenengineers Community.
+⚠️ P.S - This Repository would not have been possible without the support of the Deenengineers Community.
 
 
 
