@@ -16,7 +16,7 @@ Once completing the basic fundamentals I will then proceed onto advanced Technol
  - Infrastructure-as-code - Terraform 
  - Containers (Docker & Kubernetes)
  - Understanding of Ansible (another Infrastructure-as-code tool)
- - Continuous integration & Continuous Development - CI/CD
+ - Continuous integration & Continuous deployment - CI/CD
  - Overall understanding of Security.
 
 Please see resources to learn the above 👆🏽
@@ -37,7 +37,7 @@ Containers - Docker & Kubernetes - https://tinyurl.com/4h9rehfc , https://tinyur
 
 Ansible - https://tinyurl.com/yc78vm72 , https://tinyurl.com/2p8rrxp7 & https://tinyurl.com/3jmrepfr
 
-Continuous integration & Continuous Development - CI/CD - https://tinyurl.com/msvwdreb
+Continuous integration & Continuous deployment - CI/CD - https://tinyurl.com/msvwdreb
 
 I look forward to learning and trialing all the following technologies. I aim to use all these Technologies in my up and coming projects!👨🏽‍💻
 
