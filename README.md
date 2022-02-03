@@ -30,7 +30,9 @@ Automate with Python: https://tinyurl.com/2p95k26k - Automate the boring stuff w
 Go Programming Language - https://go.dev/tour/welcome/1 & https://gobyexample.com/
 
 Andrew Brown Microsoft Azure Fundamentals (Az900) - https://tinyurl.com/2s4canav
+
 Andrew Brown AWS Certified Cloud Practitioner  CCP - https://tinyurl.com/bdhyjs9p
+
 Andrew Brown Google Cloud Digital Leader GCP - https://tinyurl.com/mtydfr4t
 
 Infrastructure-as-code - Terraform - https://tinyurl.com/2p8v2hav & https://tinyurl.com/zvjm6zy8
