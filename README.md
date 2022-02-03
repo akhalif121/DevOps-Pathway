@@ -1,6 +1,8 @@
 # DevOps-Pathway
 
-As an aspiring Cloud/ DevOps Engineer. I will be following the pathway below. 
+!!! This not advise but a path I intend to follow!!!
+
+As an aspiring Cloud/ DevOps Engineer. I will be following the pathway below. This is based on the most in-demand Technologies. 
 
 As a Beginner I will be be starting with the following:
 
@@ -19,6 +21,27 @@ Once completing the basic fundamentals I will then proceed onto advanced Technol
 
 Please see resources to learn the above 👆🏽
 
-Linux: https://www.udemy.com/course/linux-mastery/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Linux_v.PROF_la.EN_cc.UK_ti.6540&utm_content=deal4584&utm_term=_._ag_73899887713_._ad_532713167506_._kw__._de_m_._dm__._pl__._ti_dsa-774930029929_._li_9044955_._pd__._&matchtype=b&gclid=Cj0KCQjwnJaKBhDgARIsAHmvz6erOi_VhH0uANH5yn2ZLJ-LVvq1La8a8zv-ZAEUdbpfPbrP5hrKNi8aAnEoEALw_wcB
+Linux Master course for beginners: https://tinyurl.com/4k2r8tp7
+
+Git Fundamentals: https://www.atlassian.com/git
+
+Automate with Python: https://tinyurl.com/2p95k26k - Automate the boring stuff with python
+
+Andrew Brown Microsoft Azure Fundamentals (Az900) - https://tinyurl.com/2s4canav
+Andrew Brown AWS Certified Cloud Practitioner  CCP - https://tinyurl.com/bdhyjs9p
+Andrew Brown Google Cloud Digital Leader GCP - https://tinyurl.com/mtydfr4t
+
+Infrastructure-as-code - Terraform - https://tinyurl.com/2p8v2hav & https://tinyurl.com/zvjm6zy8
+
+Containers - Docker & Kubernetes - https://tinyurl.com/4h9rehfc , https://tinyurl.com/2p8v5tj8 & https://tinyurl.com/3ht9rfxe
+
+Ansible - https://tinyurl.com/yc78vm72 , https://tinyurl.com/2p8rrxp7 & https://tinyurl.com/3jmrepfr
+
+Continuous integration & Continuous Development - CI/CD - https://tinyurl.com/msvwdreb
+
+I look forward to learning and trialing all the following technologies. I aim to use all these Technologies in my up and coming projects!👨🏽‍💻
+
+P.S - This Repository would not have been possible without the support of the Deenengineers Community.
+
 
 
