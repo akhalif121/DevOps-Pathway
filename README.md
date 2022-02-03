@@ -41,7 +41,7 @@ Continuous integration & Continuous deployment - CI/CD - https://tinyurl.com/msv
 
 I look forward to learning and trialing all the following technologies. I aim to use all these Technologies in my up and coming projects!👨🏽‍💻
 
-⚠️ P.S - This Repository would not have been possible without the support of the Deenengineers Community.
+⚠️ P.S - This Repository would not have been possible without the support of the Deen'engineers Community.
 
 
 
